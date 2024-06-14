@@ -1,0 +1,14 @@
+ပထမဆုံး v2rayN.exe (v2rayN) ကိုဖွင့်ပါခင်ဗျ
+
+ပြီးရင် vmess: နဲ့ စတဲ့ ကီးကို copy ကူးပါခင်ဗျ
+
+ပြီးရင် v2rayN ထဲက Server ထဲ က Import bulk URL From Clipboard ကိုနှိပ်ပြီးကီးထည့်ပါခင်ဗျ
+
+ပြီးရင် System Proxy ကို Set System Proxy ထားပါခင်ဗျ
+
+ပြီးရင် Routing ကို V2(Global) ထားပါခင်ဗျ
+
+ပြီးရင် Vmess ကီးလေးပေါ်  ကို Right Click နှိပ်ပြီး Set as Active Server ကို နှိပ်ပါခင်ဗျ
+
+ပြီးရင် Reload ကို နှိပ်ပြီး သုံးလို့ရပါပြီခင်ဗျ
+
